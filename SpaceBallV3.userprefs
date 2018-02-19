@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameControllerScript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GameControllerScript.cs" Line="129" Column="3" />
+      <File FileName="Assets\Scripts\GroundPoolerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ColliderScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ActionObjectPoolerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BackgroundMovementScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BallColliderScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BallScript.cs" Line="59" Column="82" />
+      <File FileName="Assets\Scripts\CubeScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\FireExplosiveScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\InactiveColliderScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\OppBallScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
